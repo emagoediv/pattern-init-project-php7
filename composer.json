@@ -1,0 +1,14 @@
+{
+    "name": "emagoediv/project-init-pattern",
+    "description": "Pastas de estrutura padrao para iniciar projetos no php 7",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helper/constants.php",
+            "app/helper/functions.php"
+        ]
+    },
+    "require": {}
+}
