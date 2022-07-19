@@ -28,4 +28,4 @@ Caso não tenha exibido, procure verificar a estrutura e o arquivo '`composer.js
 When initializing, run the project, the message should be displayed:
 
     is running...
-If not, check the structure and the file ``composer.json'
+If not, check the structure and the file '``composer.json``'
